@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "0bb3ecb809fba6b58fa2c7c9360b47d4"
+build_time: [1508689453, 828838000]
+inputs:
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/ViewController.swift": [1508510600, 0]
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/aboutUs.swift": [1508638112, 0]
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/AppDelegate.swift": [1508510600, 0]

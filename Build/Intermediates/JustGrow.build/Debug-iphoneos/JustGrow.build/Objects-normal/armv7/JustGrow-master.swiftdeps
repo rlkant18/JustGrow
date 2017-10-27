@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "72921407c36e7181e83a0c76e97cb175"
+build_time: [561952346, 15551000]
+inputs:
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/ViewController.swift": [561825800, 0]
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/aboutUs.swift": [9223372036854775807, 0]
+  "/Users/cedricnicolas/Desktop/JustGrow/JustGrow/AppDelegate.swift": [561825800, 0]
